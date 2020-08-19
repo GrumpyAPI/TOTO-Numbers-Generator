@@ -1,0 +1,30 @@
+﻿<Window x:Class="TOTO_Numbers_Generator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TOTO_Numbers_Generator"
+        mc:Ignorable="d"
+        Title="TOTO Numbers Generator" Height="250" Width="400" BorderBrush="Black" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="Background/Background.jpg" Stretch="Fill"/>
+        <TextBox x:Name="firstNumber" HorizontalAlignment="Left" Height="20" Margin="43,190,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="20" Background="#FF007AFF" Foreground="White"/>
+        <TextBox x:Name="secondNumber" HorizontalAlignment="Left" Height="20" Margin="99,190,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="20" Background="#FF007AFF" Foreground="White"/>
+        <TextBox x:Name="thirdNumber" HorizontalAlignment="Left" Height="20" Margin="155,190,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="20" Background="#FF007AFF" Foreground="White"/>
+        <TextBox x:Name="fourthNumber" HorizontalAlignment="Left" Height="20" Margin="211,190,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="20" Background="#FF007AFF" Foreground="White"/>
+        <TextBox x:Name="fifthNumber" HorizontalAlignment="Left" Height="20" Margin="267,190,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="20" Background="#FF007AFF" Foreground="White"/>
+        <TextBox x:Name="sixthNumber" HorizontalAlignment="Left" Height="20" Margin="323,190,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="20" Background="#FF007AFF" Foreground="White"/>
+        <Label Content="#1" HorizontalAlignment="Left" Margin="39,164,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF38FF3C" FontSize="15"/>
+        <Label Content="#2" HorizontalAlignment="Left" Margin="95,164,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF38FF3C" FontSize="15"/>
+        <Label Content="#3" HorizontalAlignment="Left" Margin="151,164,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF38FF3C" FontSize="15"/>
+        <Label Content="#4" HorizontalAlignment="Left" Margin="207,164,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF38FF3C" FontSize="15"/>
+        <Label Content="#5" HorizontalAlignment="Left" Margin="263,164,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF38FF3C" FontSize="15"/>
+        <Label Content="#6" HorizontalAlignment="Left" Margin="319,164,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF38FF3C" FontSize="15"/>
+        <Button x:Name="OneYearButton" Content="1 Year" HorizontalAlignment="Left" Margin="301,10,0,0" VerticalAlignment="Top" Width="75" Click="OneYearButton_Click"/>
+        <Button x:Name="FiveYearButton" Content="5 Years" HorizontalAlignment="Left" Margin="301,40,0,0" VerticalAlignment="Top" Width="75" Click="FiveYearButton_Click"/>
+        <Button x:Name="TenYearButton" Content="10 Years" HorizontalAlignment="Left" Margin="301,70,0,0" VerticalAlignment="Top" Width="75" Click="TenYearButton_Click"/>
+        <Button x:Name="AllTimeButton" Content="All Time" HorizontalAlignment="Left" Margin="301,100,0,0" VerticalAlignment="Top" Width="75" Click="AllTimeButton_Click"/>
+        <Button x:Name="RandomButton" Content="Random Six" HorizontalAlignment="Left" Margin="301,130,0,0" VerticalAlignment="Top" Width="75" Click="RandomButton_Click"/>
+        <Button x:Name="InfoButton" Content="?" HorizontalAlignment="Left" Margin="3,3,0,0" VerticalAlignment="Top" Width="25" Click="InfoButton_Click"/>
+    </Grid>
+</Window>

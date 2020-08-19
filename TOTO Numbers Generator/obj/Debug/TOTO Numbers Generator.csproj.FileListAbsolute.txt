@@ -1,0 +1,14 @@
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\bin\Debug\TOTO Numbers Generator.exe.config
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\bin\Debug\TOTO Numbers Generator.exe
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\bin\Debug\TOTO Numbers Generator.pdb
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\MainWindow.g.cs
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\App.g.cs
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator_MarkupCompile.cache
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator_MarkupCompile.lref
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\MainWindow.baml
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator.g.resources
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO_Numbers_Generator.Properties.Resources.resources
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator.csproj.GenerateResource.cache
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator.exe
+C:\Users\yulia\source\repos\TOTO Numbers Generator\TOTO Numbers Generator\obj\Debug\TOTO Numbers Generator.pdb
